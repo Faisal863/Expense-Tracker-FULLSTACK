@@ -149,8 +149,3 @@ create config folder and add config.env file in it and all all env variables the
 
 ![App Screenshot](https://i.postimg.cc/rwpWV2Z2/Expense-Management-System-Brave-19-04-2023-11-16-01.png)
 
-
-## Demo
-
-Insert gif or link to demo
-
